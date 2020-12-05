@@ -1,3 +1,6 @@
 Hello,
 This is Github Revision 
 By Dibash Sapkota
+
+This part is done from local and derive to terminal
+
